@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kushal140
 - 👀 I’m interested in Security and Networking. 
 - 🌱 I’m currently learning Web development. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projectsbased on Python and C
 - 📫 Mail: kushalgaikwad140@gmail.com
 - I have good knowledge of C, Web Development,and Cybersecurity theoritically and want to apply in real life. 
 -
