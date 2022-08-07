@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kushal140
+- 👋 Hi, I’m Kushal Gaikwad
 - 👀 I’m interested in Security and Networking. 
 - 🌱 I’m currently learning Web development. 
 - 💞️ I’m looking to collaborate on projectsbased on Python and C
